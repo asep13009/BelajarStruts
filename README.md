@@ -1,4 +1,4 @@
 # BelajarStruts
 --test--
 Menggunakan Struts
-![Screenshot](screenshot.png)
+![screenshot](screenshot.png)
