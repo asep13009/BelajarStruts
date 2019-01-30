@@ -36,15 +36,11 @@
                         <th><html:text property="email"/></td>
                     </tr>
                     <tr>
-                        <td></td>
                         <td><html:submit value="Login"/></td>
                     </tr>
-
                 </tbody>
             </table>
-
-
         </html:form>
-
+       
     </body>
 </html>

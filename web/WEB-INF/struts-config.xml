@@ -10,7 +10,7 @@
         <form-bean name="LoginForm" type="com.myapp.struts.LoginForm"/>
     
     </form-beans>
-    <!--l-->
+  
     <global-exceptions>  
     
     </global-exceptions>
